@@ -92,5 +92,5 @@ The Wild Oasis dashboard is a sophisticated platform for managing a resort’s o
    npm run dev
 
 5. **Mock User Details:**
-   ```mockUser@test.com
-   123456
+   ```
+   mockUser@test.com, 123456
