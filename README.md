@@ -1,4 +1,4 @@
-# The Wild Oasis (Management Dashboard) | 🌴
+# The Wild Oasis (Management Dashboard) 🌴
 
 **The Wild Oasis** is a resort management tool for employees, featuring a dashboard designed to streamline the management of bookings, cabins, and guest interactions. It offers secure authentication, customizable settings, and insightful visualizations to enhance operational efficiency.
 
