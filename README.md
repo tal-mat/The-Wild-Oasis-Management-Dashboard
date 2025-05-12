@@ -90,3 +90,7 @@ The Wild Oasis dashboard is a sophisticated platform for managing a resort’s o
 4. **Start the development server:**
    ```bash
    npm run dev
+
+5. **Mock User Details:**
+   ```mockUser@test.com
+   123456
